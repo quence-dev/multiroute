@@ -15,7 +15,7 @@ A React Native transit app for New York City that supports multi-stop routing. U
 ## Development Setup
 1. Clone the repository:
    ```bash
-   git clone https://github.com/quence-dev/MultiRoute.git
+   git clone https://github.com/quence-dev/multiroute.git
    ```
 
 2. Install dependencies:
@@ -34,6 +34,3 @@ A React Native transit app for New York City that supports multi-stop routing. U
 - Minimize navigation interface.
 - Support offline routes.
 - Add push notifications for delays.
-
-## License
-MIT License
