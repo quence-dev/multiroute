@@ -1,0 +1,16 @@
+# Node modules
+node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# Logs
+*.log
+
+# OS metadata
+.DS_Store
+
+# Environment variables
+.env
+.env.local
